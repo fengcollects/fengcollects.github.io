@@ -10,7 +10,7 @@
 ## 文章
 - [我是如何一天搭起这个博客的](diy.html)
 - [折腾收藏站：犯错翻车，被球球拯救](shoucangzhan.html)
-- GitHub 签到脚本折腾记（待写）
+- [签到脚本折腾记](qiandao.html)
 
 ---
 *本站用 GitHub Pages 免费搭建*
