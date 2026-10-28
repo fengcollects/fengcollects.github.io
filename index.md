@@ -11,6 +11,7 @@
 - [我是如何一天搭起这个博客的](diy.html)
 - [折腾收藏站：犯错翻车，被球球拯救](shoucangzhan.html)
 - [签到脚本折腾记](qiandao.html)
+- [路由器折腾记：手动 xray 通了，IPsec 还在路上](luyouqi.html)
 
 ---
 *本站用 GitHub Pages 免费搭建*
