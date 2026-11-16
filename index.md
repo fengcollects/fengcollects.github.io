@@ -12,6 +12,8 @@
 - [折腾收藏站：犯错翻车，被球球拯救](shoucangzhan.html)
 - [签到脚本折腾记](qiandao.html)
 - [路由器折腾记：手动 xray 通了，IPsec 还在路上](luyouqi.html)
+- [路由器型号里的 MT 和 BE 是什么意思？](mt-be.html)
+- [NAS 虚拟机折腾记：IPsec 走不通，Tailscale 走通了](nas-vm.html)
 
 ---
 *本站用 GitHub Pages 免费搭建*
